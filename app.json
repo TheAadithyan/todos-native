@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "todoList",
+    "slug": "todoList",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.aadithyanrajesh.todoList"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
